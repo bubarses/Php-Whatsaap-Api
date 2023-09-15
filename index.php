@@ -1,6 +1,6 @@
 <?php
-require_once ('vendor/autoload.php'); // if you use Composer
-require_once('ultramsg.class.php'); // if you download ultramsg.class.php
+require_once ('vendor/autoload.php'); 
+require_once('ultramsg.class.php'); // 
 
 for($i = 0;$i<=1;$i++){
     $ultramsg_token="********"; // Ultramsg.com token
